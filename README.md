@@ -146,6 +146,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P6 Finl - 0.0 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 8.4 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 8.3 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 8.2 - Modify web-scraping.ipynb, README.md

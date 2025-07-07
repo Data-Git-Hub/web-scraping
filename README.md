@@ -77,7 +77,7 @@ git push -u origin main
 
 ### Tasks
 
-### Section 1.
+### Section 1. Extract and Save Article HTML
 
 ### Section 2.
 
@@ -116,5 +116,6 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P6 Sect - 1.0 - Create dump folder,artcle_html.pkl , Modify web-scraping.ipynb, README.md
 - P6 Init - 0.0 - Create web-scraping.ipynb, requirements.txt; Modify README.md
 ## Test History

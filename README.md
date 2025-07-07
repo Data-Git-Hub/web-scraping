@@ -107,6 +107,8 @@ git push -u origin main
 
 #### Section 7.1. Token vs Lemma Score Comparison Plot
 
+#### Section 7.1.1: Interpretation of Token vs Lemma Score Distributions
+
 ### Section 8. 
 
 ### Conclusion
@@ -132,7 +134,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
-- P6 Sect - 7.0 - Modify web-scraping.ipynb, README.md
+- P6 Sect - 7.0 - Modify web-scraping.ipynb, README.md, requirements.txt
 - P6 Sect - 6.0 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 5.0 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 4.0 - Modify web-scraping.ipynb, README.md

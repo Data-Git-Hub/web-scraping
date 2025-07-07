@@ -93,7 +93,7 @@ git push -u origin main
 
 ### Section 3. Analyze Most Frequent Tokens with spaCy
 
-### Section 4.
+### Section 4. Analyze Most Frequent Lemmas with spaCy
 
 ### Section 5.
 
@@ -126,6 +126,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P6 Sect - 4.0 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 3.0 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 2.0 - Create parse folder, article_text.txt; Modify web-scraping.ipynb, README.md
 - P6 Sect - 1.0 - Create dump folder,article_html.pkl; Modify web-scraping.ipynb, README.md

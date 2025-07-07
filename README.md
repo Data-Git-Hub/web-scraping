@@ -123,8 +123,6 @@ git push -u origin main
 
 #### Section 8.4.2. Interpretation of Noun Token vs Lemma Score Comparison Plot
 
-#### Section 8.5. Comparison of Section 7.1 and 8.4.1
-
 ### Conclusion
 
 ---
@@ -148,6 +146,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P6 Sect - 8.4 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 8.3 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 8.2 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 8.1 - Modify web-scraping.ipynb, README.md

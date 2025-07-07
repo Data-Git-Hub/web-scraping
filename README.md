@@ -79,7 +79,7 @@ git push -u origin main
 
 ### Section 1. Extract and Save Article HTML
 
-### Section 2.
+### Section 2. Load and Display Article Text
 
 ### Section 3.
 
@@ -116,6 +116,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
-- P6 Sect - 1.0 - Create dump folder,artcle_html.pkl , Modify web-scraping.ipynb, README.md
+- P6 Sect - 2.0 - Create parse folder, article_text.txt; Modify web-scraping.ipynb, README.md
+- P6 Sect - 1.0 - Create dump folder,article_html.pkl; Modify web-scraping.ipynb, README.md
 - P6 Init - 0.0 - Create web-scraping.ipynb, requirements.txt; Modify README.md
 ## Test History

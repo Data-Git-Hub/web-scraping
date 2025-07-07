@@ -103,9 +103,11 @@ git push -u origin main
 
 ### Section 6. Sentence Token Scores Histogram
 
-### Section 7.
+### Section 7. Sentence Lemma Scores Histogram
 
-### Section 8.
+#### Section 7.1. Token vs Lemma Score Comparison Plot
+
+### Section 8. 
 
 ### Conclusion
 
@@ -130,6 +132,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P6 Sect - 7.0 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 6.0 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 5.0 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 4.0 - Modify web-scraping.ipynb, README.md

@@ -1,0 +1,10 @@
+pandas
+notebook
+beautifulsoup4
+html5lib
+ipykernel
+jupyterlab
+matplotlib
+requests
+spacy
+spacytextblob

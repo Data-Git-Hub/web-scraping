@@ -29,6 +29,11 @@ py -m pip install --upgrade pip setuptools wheel
 py -m pip install -r requirements.txt
 ```
 
+### spaCy Model Installation Note Windows
+
+```shell
+python -m spacy download en_core_web_sm
+```
 ---
 
 ## macOS/Linux Setup Instructions
@@ -43,6 +48,11 @@ python3 -m pip install --upgrade pip setuptools wheel
 python3 -m pip install -r requirements.txt
 ```
 
+### spaCy Model Installation Note macOS/Linux
+
+```shell
+python3 -m spacy download en_core_web_sm
+```
 ---
 
 ## Tell VS Code to use .venv
@@ -81,7 +91,7 @@ git push -u origin main
 
 ### Section 2. Load and Display Article Text
 
-### Section 3.
+### Section 3. Analyze Most Frequent Tokens with spaCy
 
 ### Section 4.
 
@@ -116,6 +126,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P6 Sect - 3.0 - Modify web-scraping.ipynb, README.md
 - P6 Sect - 2.0 - Create parse folder, article_text.txt; Modify web-scraping.ipynb, README.md
 - P6 Sect - 1.0 - Create dump folder,article_html.pkl; Modify web-scraping.ipynb, README.md
 - P6 Init - 0.0 - Create web-scraping.ipynb, requirements.txt; Modify README.md
